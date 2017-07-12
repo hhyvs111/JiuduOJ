@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="题目1000：计算a+b.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1002：Grading.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1003：A+B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1009：二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1010：A + B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1011：最大连续子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1012：畅通工程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1013：开门人和关门人.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1015：还是A+B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1018：统计同成绩学生人数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1023：EXCEL排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1031：xxx定律.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1045：百鸡问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1046：求最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1047：素数判定.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1048：判断三角形类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1049：字符串去特定字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1050：完数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1051：数字阶梯求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1052：找x.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1053：互换最大最小数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1054：字符串内排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1055：数组逆置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1056：最大公约数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1057：众数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1059：abc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1060：完数VS盈数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1061：成绩排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1062：分段函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1063：整数和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1064：反序数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1065：输出梯形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1066：字符串排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1067：n的阶乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1068：球的半径和体积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1069：查找学生信息.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1070：今年的第几天？.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1072：有多少不同的面值组合？.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1073：杨辉三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1074：对称平方数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1075：斐波那契数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1076：N的阶乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1077：最大序列和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1078：二叉树遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1079：手机键盘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1080：进制转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1082：代理服务器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1083：特殊乘法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1084：整数拆分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1088：剩下的树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1089：数字反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1090：路径打印.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1092：Fibonacci.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1093：WERTYU.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1094：String Matching.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1096：日期差值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1098：字母统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1099：后缀子串排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1101：计算表达式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1106：数字之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1108：堆栈的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1109：连通图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1110：小白鼠排队.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1111：单词替换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1112：拦截导弹.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1114：神奇的口袋.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1115：数字求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1116：加减乘除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1117：整数奇偶排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1118：数制转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1121：首字母大写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1122：吃糖果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1132：与7无关的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1133：学分绩点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1153：括号匹配问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1155：鸡兔同笼.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1156：谁是你的潜在朋友.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1157：中位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1158：买房子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1160：放苹果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1163：素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1164：旋转矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1165：字符串匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1166：迭代求立方根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1167：数组排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1168：字符串的查找删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1169：比较奇偶数个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1170：找最小数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1171：C翻转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1173：查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1174：查找第K小数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1175：打牌.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1176：树查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1177：查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1179：阶乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1180：对称矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1181：遍历链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1182：统计单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1183：守形数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1184：二叉树遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1185：特殊排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1186：打印日期.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1187：最小年龄的3个职工.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1188：约瑟夫环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1189：还是约瑟夫环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1190：大整数排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1191：矩阵最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1192：回文字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1193：矩阵转置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1194：八进制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1195：最长&amp;最短文本.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1196：成绩排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1197：奇偶校验.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1198：a+b.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1199：找位置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1200：最大的两个数.CPP">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1201：二叉排序树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1203：IP地址.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题目1366：栈的压入、弹出序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
